@@ -4,3 +4,6 @@
 [submodule "bootcamp-2-angular-js-nionata"]
 	path = bootcamp-2-angular-js-nionata
 	url = https://github.com/UF-CEN3031-Spr2019/bootcamp-2-angular-js-nionata.git 
+[submodule "bootcamp-3-mongodb-nionata"]
+	path = bootcamp-3-mongodb-nionata
+	url = https://github.com/UF-CEN3031-Spr2019/bootcamp-3-mongodb-nionata.git
