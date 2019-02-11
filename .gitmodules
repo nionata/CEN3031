@@ -7,3 +7,6 @@
 [submodule "bootcamp-3-mongodb-nionata"]
 	path = bootcamp-3-mongodb-nionata
 	url = https://github.com/UF-CEN3031-Spr2019/bootcamp-3-mongodb-nionata.git
+[submodule "bootcampassignment-4-expressjs-nionata"]
+	path = bootcampassignment-4-expressjs-nionata
+	url = https://github.com/UF-CEN3031-Spr2019/bootcampassignment-4-expressjs-nionata.git
