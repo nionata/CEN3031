@@ -10,3 +10,6 @@
 [submodule "bootcampassignment-4-expressjs-nionata"]
 	path = bootcampassignment-4-expressjs-nionata
 	url = https://github.com/UF-CEN3031-Spr2019/bootcampassignment-4-expressjs-nionata.git
+[submodule "Bloom"]
+	path = Bloom
+	url = https://github.com/nionata/Bloom.git
